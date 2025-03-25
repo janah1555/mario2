@@ -1,0 +1,31 @@
+* {
+    background-color: #f8dbe3;
+}
+
+.homepage {
+    height: 50px;
+    width: 100px;
+    margin :auto;
+    display: grid;
+    align-self: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.homepage h1 , .homepage p {
+margin-right: 50 px;
+margin-left: 50px;
+font-size: large;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+button {
+    background-color: #ee2677;
+    align-self: center;
+    justify-content: center;
+    margin-left: 100px;
+    margin-right:50px;
+    border:bold black 10px;
+    color: #071013;
+}
+

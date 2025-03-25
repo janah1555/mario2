@@ -1,0 +1,39 @@
+*{
+    background-color: #f8dbe3;
+}
+
+.conf {
+    height: 50px;
+    width: 100px;
+    margin :auto;
+    display: grid;
+    align-self: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.pic , h1 {
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+   gap: 10px;
+}
+
+.buttons {
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+   gap: 150px;
+   border:bold black 10px;
+   color: #071013;
+}
+
+button {
+    background-color: #ee2677;
+}
